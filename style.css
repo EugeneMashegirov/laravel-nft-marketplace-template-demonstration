@@ -3,6 +3,10 @@
     color: white;
 }
 
+html {
+    overflow-x: hidden;
+}
+
 body {
     overflow-x: hidden;
     position: relative;
